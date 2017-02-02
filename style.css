@@ -1,0 +1,17 @@
+
+#bg {
+	background-image: url("background1.jpg");
+}
+
+#aboutUs {
+	display: flex;
+  	justify-content: center;
+ 	 align-items:center;
+
+}
+
+#abcd123 {
+	display: flex;
+  	justify-content: center;
+ 	 align-items:center;
+}
