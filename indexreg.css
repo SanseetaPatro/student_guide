@@ -1,0 +1,10 @@
+#bgr {
+    background-image: url("images.jpg");
+}
+
+#aboutUs {
+    display: flex;
+    justify-content: center;
+     align-items:center;
+
+}
